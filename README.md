@@ -54,7 +54,7 @@ algoritmos-logica-programacao/ <br>
 ## 🙋‍♂️ Sobre mim
 
 Me chamo **Matheus Martins**, sou estudante de programação e criei este repositório para documentar minha jornada.  
-📷 Instagram: [@matheusmr.ofc](https://instagram.com/matheusmr.ofc)
+📷 Instagram: [@martns_.dev](https://instagram.com/martns_.dev)
 
 ---
 
