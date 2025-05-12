@@ -15,3 +15,12 @@ Para definir uma variável corretamente, precisamos seguir algumas regras para c
 4. Não pode conter espaços em branco. <br>
 5. Não pode conter letras com acento. <br>
 6. Não pode ser uma **palavra reservada** da linguagem (como `escreva`, `inicio`, `fim`, etc). <br>
+
+Exemplos de identificadores.
+
+**Nota!** Valido
+**Média** Invalido
+**Salário Bruto** Invalido
+**9dade** Invalido
+**Algorimito** Invalido 
+**Inicio_Algoritimo** Valido
