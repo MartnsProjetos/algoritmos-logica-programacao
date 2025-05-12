@@ -24,3 +24,10 @@ Exemplos de identificadores.
 **9dade** → Invalido (Não pode começar com um número)<br>
 **Algorimito** → Invalido (Não pode ser uma palavra reservada) <br>
 **Inicio_Algoritimo** → Valido (Começa com letra, usa underline, sem acento ou espaço, não é palavra reservada.)
+
+Declarações de Variaveis.
+
+**Inteiro** → Ex: 1, 3, -5, 198, 0 <br>
+**Real** → Ex: 0.5, 5.0, 9.8, -77.3, 3.1415 <br>
+**Caractere** → Ex: "Gustavo" "Algoritimos" "123" <br?
+**Lógico** → Ex: Valores "Verdadeiro" e "Falso" <br>
