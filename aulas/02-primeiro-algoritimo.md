@@ -32,5 +32,6 @@ Declarações de Variaveis.
 **Caractere** → Ex: "Gustavo" "Algoritimos" "123" <br>
 **Lógico** → Ex: Valores "Verdadeiro" e "Falso" <br>
 
-Atribuição.
-**<-** 
+Atribuição. <br>
+**<-** Recebe Valores, caractere, variavel e etc.
+
