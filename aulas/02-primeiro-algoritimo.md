@@ -18,9 +18,9 @@ Para definir uma variável corretamente, precisamos seguir algumas regras para c
 
 Exemplos de identificadores.
 
-**Nota!** Valido
-**Média** Invalido
-**Salário Bruto** Invalido
-**9dade** Invalido
+**Nota!** Valido <br>
+**Média** Invalido <br>
+**Salário Bruto** Invalido <br>
+**9dade** Invalido <br>
 **Algorimito** Invalido 
 **Inicio_Algoritimo** Valido
