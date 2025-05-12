@@ -18,9 +18,9 @@ Para definir uma variável corretamente, precisamos seguir algumas regras para c
 
 Exemplos de identificadores.
 
-**Nota!** → Valido <br>
-**Média** → Invalido <br>
-**Salário Bruto** → Invalido <br>
-**9dade** → Invalido <br>
-**Algorimito** → Invalido 
-**Inicio_Algoritimo** → Valido
+**Nota!** → Valido (Dentro das regras) <br>
+**Média** → Invalido (Não pode conter Simbolos) <br>
+**Salário Bruto** → Invalido (Não pode conter acentos e espaço)<br>
+**9dade** → Invalido (Não pode começar com um número)<br>
+**Algorimito** → Invalido (Não pode ser uma palavra reservada) <br>
+**Inicio_Algoritimo** → Valido (Começa com letra, usa underline, sem acento ou espaço, não é palavra reservada.)
