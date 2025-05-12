@@ -9,12 +9,12 @@ Bem-vindo ao meu repositório de **algoritmos e lógica de programação**! Aqui
 Este repositório está organizado da seguinte forma:
 
 algoritmos-logica-programacao/ <br>
-│
-├── aulas/ → Anotações teóricas e resumos de aulas
-├── exercicios/ → Exercícios resolvidos divididos por nível
-├── desafios/ → Desafios mais complexos para treino extra
-├── resolvidos/ → Versões completas com explicações
-└── materiais/ → PDFs, links úteis e materiais de apoio
+│ <br>
+├── aulas/ → Anotações teóricas e resumos de aulas <br>
+├── exercicios/ → Exercícios resolvidos divididos por nível <br>
+├── desafios/ → Desafios mais complexos para treino extra <br>
+├── resolvidos/ → Versões completas com explicações <br>
+└── materiais/ → PDFs, links úteis e materiais de apoio <br>
 
 
 ---
