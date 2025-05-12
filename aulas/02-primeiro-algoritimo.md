@@ -29,5 +29,5 @@ Declarações de Variaveis.
 
 **Inteiro** → Ex: 1, 3, -5, 198, 0 <br>
 **Real** → Ex: 0.5, 5.0, 9.8, -77.3, 3.1415 <br>
-**Caractere** → Ex: "Gustavo" "Algoritimos" "123" <br?
+**Caractere** → Ex: "Gustavo" "Algoritimos" "123" <br>
 **Lógico** → Ex: Valores "Verdadeiro" e "Falso" <br>
