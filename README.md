@@ -19,10 +19,9 @@ algoritmos-logica-programacao/ <br>
 
 ---
 
-## 🛠️ Linguagens Usadas
+## 🛠️ Ferramentas Usadas
 
-- JavaScript
-- Python
+- Portugol
 - VisualG (para iniciantes)
 - Outras futuramente...
 
