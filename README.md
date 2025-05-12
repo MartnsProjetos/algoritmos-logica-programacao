@@ -8,7 +8,7 @@ Bem-vindo ao meu repositório de **algoritmos e lógica de programação**! Aqui
 
 Este repositório está organizado da seguinte forma:
 
-algoritmos-logica-programacao/
+algoritmos-logica-programacao/ <br>
 │
 ├── aulas/ → Anotações teóricas e resumos de aulas
 ├── exercicios/ → Exercícios resolvidos divididos por nível
