@@ -1,0 +1,44 @@
+algoritmo "media_escolar_avaliacao"
+// Objetivo: Calcular média de 3 notas e exibir avaliação personalizada
+
+var
+   //Variaveis para armazernar as informações no 'leia'
+    nota1, nota2, nota3, media: real
+
+inicio
+    escreval("Digite a primeira nota (0 a 10): ")
+    leia(nota1)
+
+    escreval("Digite a segunda nota (0 a 10): ")
+    leia(nota2)
+
+    escreval("Digite a terceira nota (0 a 10): ")
+    leia(nota3)
+
+    media := (nota1 + nota2 + nota3) / 3
+
+    escreval("Sua média final é: ", media:0:2)
+
+    // Avaliação
+    se media < 4 entao
+        escreval("Avaliação: Péssimo. Você precisa se dedicar mais.")
+    senao
+        se media = 5 entao
+            escreval("Avaliação: Passou, mas precisa melhorar.")
+        senao
+            se (media > 5) e (media <= 7) entao
+                escreval("Avaliação: Muito bom! Continue assim.")
+            senao
+                se (media > 7) e (media < 10) entao
+                    escreval("Avaliação: Excelente! Parabéns.")
+                senao
+                    se media = 10 entao
+                        escreval("Avaliação: Incrível! Nota máxima!")
+                    senao
+                        escreval("Avaliação: Boa! Continue se esforçando.")
+                    fimse
+                fimse
+            fimse
+        fimse
+    fimse
+fimalgoritmo
