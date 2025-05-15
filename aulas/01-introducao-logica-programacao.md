@@ -1,1 +1,1 @@
-Nessa primeira aula do curso em video do professor Gustavo Guanabara, Ele explicou oque é algoritimos, como usamos no nosso dia a dia e como podemos usar isso para aprimorar nosso raciocinio lógico.
+Na primeira aula do curso em vídeo do professor Gustavo Guanabara, ele explicou o que são algoritmos, como os utilizamos no nosso dia a dia e de que forma eles podem ajudar a aprimorar nosso raciocínio lógico.
