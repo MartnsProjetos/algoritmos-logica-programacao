@@ -1,0 +1,31 @@
+algoritmo "Habilitação"
+var
+idade, anoAtual, anoNascimento, resultado: inteiro
+
+
+inicio
+    escreval("-----------------------------------------")
+    escreval("Você está APTO para tirar habilitação? ")
+    escreval("-----------------------------------------")
+    
+    escreva("Ano Atual: ")
+    leia(anoAtual)
+    
+    escreva("Ano de Nascimento: ")
+    leia(anoNascimento)
+    
+    resultado <- anoAtual - anoNascimento
+    
+
+    se (resultado < 18) entao
+    escreval("Você não pode tirar habilitação")
+    escreva("Idade: ", resultado)
+
+    senao
+    escreval("Você pode tirar habilitação!")
+    escreva("Idade: ", resultado)
+    
+    fimse
+
+
+fimalgoritmo
